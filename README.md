@@ -1,70 +1,46 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 024rollapp
 
-## Available Scripts
+## Overview
+024rollapp is a project that has been under development for three years. It is an integrated platform with blacktea024, designed to offer a comprehensive solution for [insert purpose here].
 
-In the project directory, you can run:
+## Integration with Blacktea024
+This rollapp has been seamlessly integrated with blacktea024, allowing for enhanced functionality and a more robust user experience. For more details on blacktea024, please visit its repository [here](https://github.com/flechemano/blacktea024).
 
-### `npm start`
+## Dependencies
+- npm (version 20 or higher)
+- React
+- [blacktea024](https://github.com/flechemano/blacktea024)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
+To install 024rollapp, you can use npm:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```
+npm install 024rollapp
+```
 
-### `npm test`
+## Usage
+[Insert instructions on how to use the rollapp here.]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Testing on Development
+To test the rollapp on development, follow these steps:
+1. Clone the repository: `git clone https://github.com/flechemano/024rollapp.git`
+2. Navigate to the project directory: `cd 024rollapp`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
-### `npm run build`
+## License
+This project is licensed under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Integration with DPGX Package Manager
+024rollapp is seeking integration with the dpgx package manager. Any assistance in this matter would be greatly appreciated.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Registration and Publication
+024rollapp is registered at [tea.xyz](https://tea.xyz) and published on [npmjs.com](https://www.npmjs.com). 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributions
+Contributions to this project are welcome. Feel free to submit issues or pull requests.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+For any inquiries or support, please contact [flechemano@gmail.com].
+```
