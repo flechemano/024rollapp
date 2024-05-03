@@ -1,12 +1,12 @@
 {
   "name": "024rollapp",
   "version": "0.1.2",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "blacktea024": "^0.1.9",
+    "blacktea024": "^1.0.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "^3.0.1",
