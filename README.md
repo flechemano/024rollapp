@@ -1,4 +1,4 @@
-
+[![Jekyll site CI](https://github.com/flechemano/024rollapp/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/flechemano/024rollapp/actions/workflows/jekyll-docker.yml)
 # 024rollapp
 
 ## Overview
